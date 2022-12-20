@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "Title": "Fruits",
+            "Items": [
+                "Apples",
+                "Oranges",
+                "Grapes",
+                "Bananas"
+            ]
+        },
+        {
+            "Title": "Cars",
+            "Items": [
+                "Kia",
+                "Hyundai",
+                "Honda",
+                "Mazda"
+            ]
+        },
+        {
+            "Title": "States",
+            "Items": [
+                "New York",
+                "Georgia",
+                "Texas",
+                "New Jersey"
+            ]
+        },
+        
+    ]
+}
